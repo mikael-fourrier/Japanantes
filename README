@@ -1,0 +1,4 @@
+Installation sur un device android :
+
+    ant debug
+    adb install bin/Japanantes-debug.apk
