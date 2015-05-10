@@ -1,7 +1,11 @@
 package com.japanantes.app;
 
-import com.japanantes.app.Lieu;
+import java.util.*;
 
 public class Exposant extends Lieu {
-
+	
+    public Exposant(String nom, String desc){
+    	super(nom, desc);
+    }
+	
 }
